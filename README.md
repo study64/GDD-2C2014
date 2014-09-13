@@ -1,10 +1,16 @@
-Directorios
+# GDD-2C2014
+## Directorios
  
-code:
-	aca ponemos el codigo C# , proyectos del VS , etc.
-doc:
-	aca ponemos la documentacion, DERs, enunciado, etc.
-sql:
-	aca ponemos los scripts de creacrion de tablas, stored procedures, etc.
+* `code`: codigo C# , proyectos del VS , etc.
+* `doc`: documentacion, DERs, enunciado, etc.
+* `sql`: scripts de creacrion de tablas, stored procedures, etc.
 
+## Datos de Contacto
+
+Legajo | Apellido, Nombre | email | 
+ ------------- | ------------- | -------------
+138.822-8 | Mauro, Leandro | lemmau@hotmail.com.
+-| * | .
+-| * | .
+-| * | .
 
