@@ -10,7 +10,7 @@
 Legajo | Apellido, Nombre | email | 
  ------------- | ------------- | -------------
 138.822-8 | Mauro, Leandro | lemmau@hotmail.com.
--| * | .
+138.471-5| Stadius, Ivan | El mail no lo voy a dejar público
 -| * | .
 -| * | .
 
